@@ -8,16 +8,7 @@
 
 A cutting-edge, AI-powered machine learning application that predicts laptop prices in real-time. Built with an advanced **XGBoost Regressor** model and a stunning, modern **Streamlit** user interface.
 
----
 
-## 🌐 Live Demo
-
-Try out the application live on Streamlit.io :
-🔗 **[Laptop Price Predictor - Streamlit.io ](https://laptop-price-prediction-xgb.streamlit.app/)**
-
-*(Note: The model might take a few seconds to load upon first visit.)*
-
----
 
 ## 🎯 Key Features
 
